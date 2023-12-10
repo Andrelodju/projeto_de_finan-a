@@ -20,7 +20,6 @@ Abra o notebook analysis.ipynb em um ambiente Jupyter Notebook.
 Execute cada célula sequencialmente para visualizar as análises, gráficos e resultados.
 Estrutura do Notebook
 analysis.ipynb: Notebook Jupyter contendo a análise de dados financeiros.
-requirements.txt: Lista de bibliotecas Python necessárias para reproduzir a análise.
 README.md: Este arquivo, fornecendo uma visão geral do notebook.
 Contribuições e Feedback
 Contribuições são bem-vindas! Sinta-se à vontade para clonar o repositório, abrir um pull request ou criar uma issue para sugestões, correções ou melhorias neste projeto.
