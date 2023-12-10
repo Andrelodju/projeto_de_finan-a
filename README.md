@@ -12,7 +12,6 @@ Instruções de Uso
 Pré-requisitos:
 
 Ter um ambiente Jupyter Notebook configurado.
-Instalar as bibliotecas necessárias listadas no arquivo requirements.txt.
 Ter uma compreensão básica de Python, Pandas e análise financeira.
 Execução:
 
